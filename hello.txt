@@ -7,3 +7,4 @@ hello git!
 hello git!
 hello git!
 hello git! 666
+hello git! hot-fix
